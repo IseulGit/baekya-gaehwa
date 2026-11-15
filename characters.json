@@ -1,0 +1,356 @@
+[
+  {
+    "id": 1,
+    "name": "설유빈",
+    "faction": "엘리시온",
+    "group": "Recovery",
+    "image": "assets/characters/1B.png",
+    "personality": "차분 · 온화 · 정중 · 진취적",
+    "age": 20,
+    "quote": "나아갈 길이 없다면 만들어나가면 돼.",
+    "description": "Elysion Recovery의 총책임자이자 엘리시온 전체의 대표. 전례 없는 사업에도 적극적으로 도전합니다."
+  },
+  {
+    "id": 2,
+    "name": "정수현",
+    "faction": "엘리시온",
+    "group": "Recovery",
+    "image": "assets/characters/2B.png",
+    "personality": "단호 · 고지식 · 원칙적",
+    "quote": "원칙에 예외를 두기 시작하면, 그건 더 이상 원칙이 아니죠."
+  },
+  {
+    "id": 3,
+    "name": "백시율",
+    "faction": "엘리시온",
+    "group": "Recovery",
+    "image": "assets/characters/3B.png",
+    "personality": "완벽주의 · 예민 · 집요",
+    "quote": "99는 100이 되려면 1이 부족하잖아."
+  },
+  {
+    "id": 4,
+    "name": "하도아",
+    "faction": "엘리시온",
+    "group": "Technology",
+    "image": "assets/characters/4B.png",
+    "personality": "활발 · 낙천적 · 사교적 · 야심",
+    "age": 20,
+    "quote": "성장에는 끝이 없는 법이잖아?",
+    "description": "Elysion Technology의 총책임자. 사업적 성과와 조직의 성장을 중시합니다."
+  },
+  {
+    "id": 5,
+    "name": "도유하",
+    "faction": "엘리시온",
+    "group": "Technology",
+    "image": "assets/characters/5B.png",
+    "personality": "능글맞음 · 재치 · 사교적",
+    "quote": "세상일이 꼭 정석대로만 흘러가겠어?"
+  },
+  {
+    "id": 6,
+    "name": "소다빈",
+    "faction": "엘리시온",
+    "group": "Technology",
+    "image": "assets/characters/6B.png",
+    "personality": "호기심 · 충동적 · 낙천적",
+    "quote": "실용성? 그건 나중에 생각하지 뭐."
+  },
+  {
+    "id": 7,
+    "name": "유이슬",
+    "faction": "서월연화 마법학원",
+    "group": "학생회",
+    "image": "assets/characters/7B.png",
+    "personality": "여유 · 낙천적 · 장난기 · 자유분방",
+    "grade": 3,
+    "age": 19,
+    "quote": "좋은 인생은 재밌는 인생이니까.",
+    "description": "서월연화 마법학원의 학생회장. 자유분방하며 어디서나 베개를 들고 다닙니다."
+  },
+  {
+    "id": 8,
+    "name": "임하랑",
+    "faction": "서월연화 마법학원",
+    "group": "학생회",
+    "image": "assets/characters/8B.png",
+    "personality": "차분 · 진솔 · 성실",
+    "grade": 2,
+    "age": 18,
+    "quote": "누군가는 해야 할 일이라면, 내가 할게.",
+    "description": "서월연화 마법학원의 부학생회장. 학생회의 실질적인 업무 관리를 담당합니다."
+  },
+  {
+    "id": 9,
+    "name": "설하온",
+    "faction": "서월연화 마법학원",
+    "group": "학생회",
+    "image": "assets/characters/9B.png",
+    "personality": "상냥 · 온화 · 인내심 · 이타적",
+    "grade": 1,
+    "quote": "친절은 모두에게 도움이 돼."
+  },
+  {
+    "id": 10,
+    "name": "한예은",
+    "faction": "서월연화 마법학원",
+    "group": "학생회",
+    "image": "assets/characters/10B.png",
+    "personality": "차분 · 사교적 · 열정적 · 이상주의",
+    "grade": 3,
+    "quote": "모두와 연대하여, 더 나은 세상을 만들 것이다."
+  },
+  {
+    "id": 11,
+    "name": "서예하",
+    "faction": "서월연화 마법학원",
+    "group": "미궁해결사무소",
+    "image": "assets/characters/11B.png",
+    "personality": "직설적 · 완고 · 솔직 · 집요",
+    "grade": 3,
+    "age": 19,
+    "quote": "진실은 그 누구도 건들 수 없는, 불변의 법칙이지.",
+    "description": "서월연화 마법학원 3학년. 진실을 추구하며 거짓말을 용납하지 않습니다."
+  },
+  {
+    "id": 12,
+    "name": "강시현",
+    "faction": "서월연화 마법학원",
+    "group": "미궁해결사무소",
+    "image": "assets/characters/12B.png",
+    "personality": "관찰력 · 호기심 · 집요 · 짓궂음",
+    "grade": 2,
+    "quote": "모든 것에는 저마다의 모순이 존재하는 법이야."
+  },
+  {
+    "id": 13,
+    "name": "이도하",
+    "faction": "서월연화 마법학원",
+    "group": "미궁해결사무소",
+    "image": "assets/characters/13B.png",
+    "personality": "용감 · 행동파 · 솔직 · 친절",
+    "grade": 3,
+    "quote": "옳다고 믿는다면, 행동하지 않을 이유는 존재하지 않아."
+  },
+  {
+    "id": 14,
+    "name": "윤솔아",
+    "faction": "서월연화 마법학원",
+    "group": "미궁해결사무소",
+    "image": "assets/characters/14B.png",
+    "personality": "활발 · 자신감 · 행동력 · 호기심",
+    "grade": 1,
+    "quote": "작은 의문 하나가 커다란 진실을 만들어가."
+  },
+  {
+    "id": 15,
+    "name": "여단아",
+    "faction": "서월연화 마법학원",
+    "group": "미궁해결사무소",
+    "image": "assets/characters/15B.png",
+    "personality": "차분 · 무심 · 과묵 · 논리적",
+    "grade": 1,
+    "quote": "모든 수수께끼에는 답이 있소. 아직 우리가 찾지 못했을 뿐."
+  },
+  {
+    "id": 16,
+    "name": "박서아",
+    "faction": "서월연화 마법학원",
+    "group": "Serendipity",
+    "image": "assets/characters/16B.png",
+    "personality": "신중 · 계획적 · 차분 · 침착",
+    "grade": 3,
+    "quote": "세상에 우연이란 건 없어. 적어도 나에게는."
+  },
+  {
+    "id": 17,
+    "name": "박서하",
+    "faction": "서월연화 마법학원",
+    "group": "Serendipity",
+    "image": "assets/characters/17B.png",
+    "personality": "즉흥적 · 자유분방 · 호기심",
+    "grade": 2,
+    "quote": "세상은 예상한 대로 흘러가지 않아서 재미있는 거야!"
+  },
+  {
+    "id": 18,
+    "name": "윤유화",
+    "faction": "서월연화 마법학원",
+    "group": "Serendipity",
+    "image": "assets/characters/18B.png",
+    "personality": "낭만주의 · 감성적 · 엉뚱함",
+    "grade": 1,
+    "quote": "incroyable! 진짜 낭만적이야!"
+  },
+  {
+    "id": 19,
+    "name": "민설아",
+    "faction": "서월연화 마법학원",
+    "group": "Serendipity",
+    "image": "assets/characters/19B.png",
+    "personality": "소탈 · 낙천적 · 사려 깊음 · 느긋함",
+    "grade": 1,
+    "age": 17,
+    "quote": "우리가 여기에 존재한다는 것 만으로도, 나에게는 큰 행운이야.",
+    "description": "서월연화 마법학원 1학년이자 Serendipity의 부장. 사소한 일들에서도 행운을 발견합니다."
+  },
+  {
+    "id": 20,
+    "name": "도이화",
+    "faction": "서월연화 마법학원",
+    "group": "백화기담",
+    "image": "assets/characters/20B.png",
+    "personality": "활발 · 장난기 · 과장된 표현",
+    "grade": 3,
+    "quote": "어서 와, 나의 무대에!"
+  },
+  {
+    "id": 21,
+    "name": "온다율",
+    "faction": "서월연화 마법학원",
+    "group": "백화기담",
+    "image": "assets/characters/21B.png",
+    "personality": "감성적 · 활발 · 사교적",
+    "grade": 2,
+    "quote": "인생은 하나의 교향곡이야. 어떤 음이 울릴지는 아무도 모르지!"
+  },
+  {
+    "id": 22,
+    "name": "연소담",
+    "faction": "서월연화 마법학원",
+    "group": "백화기담",
+    "image": "assets/characters/22B.png",
+    "personality": "박식 · 호기심 · 비판적",
+    "grade": 2,
+    "quote": "역사를 잊어버린 사람들에게 미래는 없는 법이지."
+  },
+  {
+    "id": 23,
+    "name": "유아람",
+    "faction": "서월연화 마법학원",
+    "group": "백화기담",
+    "image": "assets/characters/23B.png",
+    "personality": "순수 · 호기심",
+    "grade": 1,
+    "quote": "세상엔 아직 모르는 게 잔뜩이야!"
+  },
+  {
+    "id": 24,
+    "name": "서연아",
+    "faction": "서월연화 마법학원",
+    "group": "Spotlight",
+    "image": "assets/characters/24B.png",
+    "personality": "활발 · 다정 · 장난기",
+    "grade": 3,
+    "age": 19,
+    "quote": "오늘도 여러분의 최애가 되기 위해 노력할게요!",
+    "description": "서월연화 마법학원 3학년이자 Spotlight의 부장. 유명 인플루언서로 활동합니다."
+  },
+  {
+    "id": 25,
+    "name": "은유랑",
+    "faction": "서월연화 마법학원",
+    "group": "Spotlight",
+    "image": "assets/characters/25B.png",
+    "personality": "활발 · 계산적 · 사교적 · 유쾌함",
+    "grade": 1,
+    "quote": "서로 무엇을 얻을 수 있을지부터 따져볼까?"
+  },
+  {
+    "id": 26,
+    "name": "안시은",
+    "faction": "서월연화 마법학원",
+    "group": "Spotlight",
+    "image": "assets/characters/26B.png",
+    "personality": "차분 · 계획적 · 현실적 · 신중",
+    "grade": 1,
+    "quote": "일어날 가능성이 낮다고 해서, 일어나지 않는 건 아닙니다."
+  },
+  {
+    "id": 27,
+    "name": "이세은",
+    "faction": "서월연화 마법학원",
+    "group": "자율활동부",
+    "image": "assets/characters/27B.png",
+    "personality": "직설적 · 장난기 · 자유분방 · 나른함",
+    "grade": 2,
+    "quote": "난 귀찮은 건 딱 질색이니까."
+  },
+  {
+    "id": 28,
+    "name": "온서은",
+    "faction": "서월연화 마법학원",
+    "group": "자율활동부",
+    "image": "assets/characters/28B.png",
+    "personality": "과묵 · 차분 · 무심 · 직설적",
+    "grade": 3,
+    "quote": "남들이 정한 기준이, 나한테도 중요할 필요는 없어."
+  },
+  {
+    "id": 29,
+    "name": "정연화",
+    "faction": "서월연화 마법학원",
+    "group": "자율활동부",
+    "image": "assets/characters/29B.png",
+    "personality": "차분 · 계획적 · 치밀함 · 인내심",
+    "grade": 2,
+    "quote": "……예정대로야. 전부."
+  },
+  {
+    "id": 30,
+    "name": "서이현",
+    "faction": "대한민국 정부",
+    "group": "정부",
+    "image": "assets/characters/30B.png",
+    "personality": "차분 · 책임감 · 고집 · 승부욕",
+    "quote": "모두를 지키려면 어느 정도의 통제는 필요해."
+  },
+  {
+    "id": 31,
+    "name": "이하윤",
+    "faction": "대한민국 정부",
+    "group": "정부",
+    "image": "assets/characters/31B.png",
+    "personality": "능글맞음 · 나른함 · 여유",
+    "age": 22,
+    "quote": "귀찮은 일은 빨리 끝내야 편하게 쉴 수 있잖아요?",
+    "description": "서이현의 오랜 측근이자 비서. 느긋한 농담을 즐기며 맡은 일을 잘 해냅니다."
+  },
+  {
+    "id": 32,
+    "name": "임유현",
+    "faction": "대한민국 정부",
+    "group": "정부",
+    "image": "assets/characters/32B.png",
+    "personality": "낙천적 · 순수 · 장난기",
+    "quote": "힘든 날도 있겠지만, 좋은 날도 분명 올 거야!"
+  },
+  {
+    "id": 33,
+    "name": "이유은",
+    "faction": "대한민국 정부",
+    "group": "정부",
+    "image": "assets/characters/33B.png",
+    "personality": "소심 · 신중 · 차분",
+    "quote": "정보는 많이 알고 있을수록 좋대."
+  },
+  {
+    "id": 34,
+    "name": "한서윤",
+    "faction": "대한민국 정부",
+    "group": "정부",
+    "image": "assets/characters/34B.png",
+    "personality": "호기심 · 과몰입 · 활발",
+    "quote": "답이 존재한다면, 끝까지 찾아내겠어!"
+  },
+  {
+    "id": 35,
+    "name": "이하얀",
+    "faction": "대한민국 정부",
+    "group": "정부",
+    "image": "assets/characters/35B.png",
+    "personality": "나른함 · 낙천적",
+    "quote": "나한테 가장 재밌는 건 자는 거야아..."
+  }
+]
